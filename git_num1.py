@@ -1,4 +1,4 @@
 
 
-print("Method1 ")
-
+print("Method1")
+print("Success")
